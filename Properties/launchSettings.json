@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "QfxConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Seamus\\Downloads\\quickenExportTestChange.QFX"
+    }
+  }
+}
